@@ -44,3 +44,31 @@ Generates a small open-source philosophy statement based on user input.
 1. Open Linux terminal
 2. Navigate to folder where scripts are saved
 3. Run the following commands:
+
+chmod +x script1.sh  
+./script1.sh  
+
+chmod +x script2.sh  
+./script2.sh  
+
+chmod +x script3.sh  
+./script3.sh  
+
+chmod +x script4.sh  
+./script4.sh  
+
+chmod +x script5.sh  
+./script5.sh  
+
+---
+
+## Requirements
+- Linux (Ubuntu)
+- Bash
+- Python
+
+---
+
+## Conclusion
+This project helped in understanding open-source software and basic shell scripting.
+
